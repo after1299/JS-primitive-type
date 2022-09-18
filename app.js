@@ -1,4 +1,12 @@
 // JavaScipt's primitive data type
+/**
+ * Number
+ * String
+ * Boolean
+ * Undefined
+ * Null
+ * Synbol
+ */
 
 //number
 //toString()
