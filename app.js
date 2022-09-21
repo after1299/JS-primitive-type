@@ -49,3 +49,13 @@ console.log(4 === "4"); //values and types are same (false)
 
 console.log(4 != "4"); //values are different (false)
 console.log(4 !== "4"); //values and types are different (true)
+
+// truthy value and falsy value
+// 0, false, "", null, undefined, NaN are falsy value, others are truthy value
+// ex: 
+let x = 0;
+if(x){
+    console.log("this is a truthy value");
+} else{
+    console.log("this is a falsy value");
+}
