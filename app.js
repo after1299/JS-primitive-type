@@ -42,3 +42,10 @@ console.log(name.toUpperCase().indexOf("R"));
 
 //split
 console.log(name.split(" "));
+
+//logic operator
+console.log(4 == "4"); //values are same (true)
+console.log(4 === "4"); //values and types are same (false)
+
+console.log(4 != "4"); //values are different (false)
+console.log(4 !== "4"); //values and types are different (true)
